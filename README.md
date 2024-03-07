@@ -53,7 +53,7 @@ const gifFilenames = [
 ```
 
 ## Disclaimer
-This extension simply provides the convenience of installing custom nodes and does not guarantee their proper functioning.
+This extension simply provides funs and does not guarantee their proper functioning.
 
 ## Credit
 Thank you [ComfyUI](https://github.com/comfyanonymous/ComfyUI)!!!
