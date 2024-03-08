@@ -52,6 +52,9 @@ const gifFilenames = [
 ];
 ```
 
+## Update
+[03/08] add drag and drop, resize
+
 ## Disclaimer
 This extension simply provides funs and does not guarantee their proper functioning.
 
