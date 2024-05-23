@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-catcat"
+description = "Extension to show random cat GIFs while queueing prompt."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/jw782cn/ComfyUI-Catcat"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Catcat"
+Icon = ""
