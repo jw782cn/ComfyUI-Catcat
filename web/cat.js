@@ -31,8 +31,8 @@ app.registerExtension({
     catGif.style.position = "fixed";
     catGif.style.left = "5px";
     catGif.style.bottom = "5px";
-    catGif.style.width = "500px"; // Adjust size as needed
-    catGif.style.height = "auto";
+    catGif.style.width = "auto"; // Adjust width automatically
+    catGif.style.height = "40vh";
     catGif.style.zIndex = "1000";
     catGif.style.display = "none"; // Initially hidden
 
